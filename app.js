@@ -1,3 +1,4 @@
+//input and output files will be in txt form
 import {createReadStream,createWriteStream} from "fs";
 import path from "path";
 
